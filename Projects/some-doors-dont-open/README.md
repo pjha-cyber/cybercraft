@@ -6,6 +6,7 @@
 **Some Doors Don’t Open** is an original, story-driven survival game where you control a character named Monet in a mysterious, high-stakes environment. Your mission is simple: reach randomly moving doors while avoiding bouncing laser hazards — and survive for 120 seconds. But not everything is as it seems.
 
 The game explores choice, hope, and futility through minimalist gameplay and emotional design.
+**Play it here on Scratch → [Click to Play](https://scratch.mit.edu/projects/1195381584/)**
 
 ---
 
