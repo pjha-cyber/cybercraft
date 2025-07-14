@@ -58,5 +58,5 @@ A beginner-friendly room introducing the basics of computer networks, the intern
   ping 8.8.8.8            # ping an IP
   ping -c 4 192.168.1.1   # send 4 packets only
 -  **Key terms**:
-  -RTT (Round Trip Time): Time taken for a packet to go to the destination and return.
-  -TTL (Time to Live): Limits the number of hops a packet can take to avoid infinite loops.
+  - RTT (Round Trip Time): Time taken for a packet to go to the destination and return.
+  - TTL (Time to Live): Limits the number of hops a packet can take to avoid infinite loops.
