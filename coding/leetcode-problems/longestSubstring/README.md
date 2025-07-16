@@ -23,6 +23,7 @@ This Java program calculates the **length of the longest substring without repea
 ## 🧪 Example
 
 **Input:** abcabcbb
+
 **Output:** Length of longest substring without duplicate characters: 3
 
 ---
