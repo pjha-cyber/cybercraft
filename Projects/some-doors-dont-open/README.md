@@ -40,12 +40,6 @@ The game explores choice, hope, and futility through minimalist gameplay and emo
 
 ---
 
-## 📁 Files
-- `Some-Doors-Don't-Open.sb3` — full game file
-- `README.md` — this file
-
----
-
 ## 🙌 Author
 Developed by **Prathamesh**  
 Student | Aspiring Cybersecurity Engineer | Creative Coder  
